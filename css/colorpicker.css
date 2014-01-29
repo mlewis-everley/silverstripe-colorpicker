@@ -160,3 +160,25 @@
 .colorpicker_slider {
 	background-position: bottom;
 }
+
+.field .textcolor {
+	border: 1px solid #b3b3b3;
+	padding: 7px 7px;
+	line-height: 16px;
+	margin: 0;
+	outline: none;
+	-moz-transition: 0.2s box-shadow ease-in;
+	-webkit-transition: 0.2s box-shadow ease-in;
+	-o-transition: 0.2s box-shadow ease-in;
+	transition: 0.2s box-shadow ease-in;
+	-moz-transition: 0.2s border ease-in;
+	-webkit-transition: 0.2s border ease-in;
+	-o-transition: 0.2s border ease-in;
+	transition: 0.2s border ease-in;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	-ms-border-radius: 4px;
+	-o-border-radius: 4px;
+	border-radius: 4px;
+	background-size: 100%;
+}
